@@ -5,6 +5,8 @@ const JSONCtrl = require('./JSONServerController');
 const GLCtrl = require('./GLController')
 
 const app = express();
+
+console.log(process.env.GL_KEY)
 app.use(bodyParser.json());
 
 app.get('/api/search', GLCtrl.search);

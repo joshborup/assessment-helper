@@ -23,9 +23,10 @@ module.exports = {
   },
 
   getProjects: (req, res) => {
-    axios.get(`https://gitlab.com/api/v4/groups/2487502/projects`, {headers: {'Private-Token': process.env.GL_KEY}})
-      .then(response => {
-        res.status(200).json({assessments: response.data})
+    axios.get(`https://gitlab.com/api/v4/groups/2487502/`, {headers: {'Private-Token': process.env.GL_KEY}})
+    .then(response => {
+      console.log(response.data.projects)
+        res.status(200).json({assessments: response.data.projects})
       })
       .catch(err => console.log('err', err))
   }

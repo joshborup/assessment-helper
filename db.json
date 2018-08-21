@@ -1,3 +1,76 @@
 {
-  "students": []
+  "students": [
+    {
+      "id": 2701341,
+      "name": "Andrew Nam",
+      "username": "Clayakn",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/192ea2b4ba8888bb44732a3a6f868b5d?s=80&d=identicon",
+      "web_url": "https://gitlab.com/Clayakn"
+    },
+    {
+      "id": 2701347,
+      "name": "Michael Kerr",
+      "username": "bulluffalo",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/d4016f58ad38a408654fa288916b231f?s=80&d=identicon",
+      "web_url": "https://gitlab.com/bulluffalo"
+    },
+    {
+      "id": 2701344,
+      "name": "Sibyl Pomeroy",
+      "username": "sibyldawn",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/853411dbef3afd10ff4bb4c9dbf886aa?s=80&d=identicon",
+      "web_url": "https://gitlab.com/sibyldawn"
+    },
+    {
+      "id": 2701340,
+      "name": "Easton Spencer",
+      "username": "speeas",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/f4e8669ad7c05daf367c0b0cf2a2743b?s=80&d=identicon",
+      "web_url": "https://gitlab.com/speeas"
+    },
+    {
+      "id": 2701351,
+      "name": "Alex Stout",
+      "username": "stizout",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/e9f43e2f6da133dde9be04e6a383c2b8?s=80&d=identicon",
+      "web_url": "https://gitlab.com/stizout"
+    },
+    {
+      "id": 2701342,
+      "name": "Zak ",
+      "username": "Zakery1",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/ca91da076343a7ab0a59e446f4523b9f?s=80&d=identicon",
+      "web_url": "https://gitlab.com/Zakery1"
+    },
+    {
+      "id": 2701343,
+      "name": "Abraham",
+      "username": "mustang0364",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/37f1cb3dc4af028790801829ab751f0c?s=80&d=identicon",
+      "web_url": "https://gitlab.com/mustang0364"
+    },
+    {
+      "id": 2701354,
+      "name": "rexxtwofour",
+      "username": "rexxtwofour",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/2d6747ef67d32eb345392df0f05472d1?s=80&d=identicon",
+      "web_url": "https://gitlab.com/rexxtwofour"
+    },
+    {
+      "id": 2704773,
+      "name": "DanielleLyn",
+      "username": "DanielleLyn",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/08b2d5ea367adc7708985dfd85bc74b1?s=80&d=identicon",
+      "web_url": "https://gitlab.com/DanielleLyn"
+    }
+  ]
 }
