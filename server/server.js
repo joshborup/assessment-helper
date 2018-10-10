@@ -1,12 +1,16 @@
-require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
 const JSONCtrl = require('./JSONServerController');
 const GLCtrl = require('./GLController')
+require('dotenv').config();
+
+if (!process.env.GL_KEY) {
+  console.error('Missing process.env.GL_KEY!');
+  process.exit(1);
+}
 
 const app = express();
 
-console.log(process.env.GL_KEY)
 app.use(bodyParser.json());
 
 app.get('/api/search', GLCtrl.search);
