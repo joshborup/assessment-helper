@@ -2,7 +2,7 @@
   "students": [
     {
       "id": 2890767,
-      "name": "Matt",
+      "name": "Matt Shields",
       "username": "MDShields7",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/6f45acb73d384fdb213fc93a76903048?s=80&d=identicon",
@@ -26,7 +26,7 @@
     },
     {
       "id": 2890773,
-      "name": "danBohon",
+      "name": "Dan Bohon",
       "username": "danBohon",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/eb7d4871227309a68ac89a377e4c84b4?s=80&d=identicon",
@@ -42,7 +42,7 @@
     },
     {
       "id": 2890762,
-      "name": "jemilalghani",
+      "name": "Jemil Al-Ghani",
       "username": "jemilalghani",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/6d28916457b346f88a9f4f04bd8f8f84?s=80&d=identicon",
@@ -50,7 +50,7 @@
     },
     {
       "id": 2890778,
-      "name": "Justin Horton",
+      "name": "Justin (JT) Horton",
       "username": "justin.thomas13",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/ac5ba990ed9ca82096378a13eedf5bf6?s=80&d=identicon",
@@ -58,7 +58,7 @@
     },
     {
       "id": 2890771,
-      "name": "papakyle02",
+      "name": "Kyle Boysen",
       "username": "papakyle02",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/1d19087a0919a68630f6739a546a3805?s=80&d=identicon",
@@ -66,7 +66,7 @@
     },
     {
       "id": 2890765,
-      "name": "madi",
+      "name": "Madi Walmsley",
       "username": "rilakumma",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/4eb72a75464a7fce441d9bc9d8dbc022?s=80&d=identicon",
@@ -74,23 +74,15 @@
     },
     {
       "id": 2890774,
-      "name": "gillygilstrap",
+      "name": "Matt Gilstrap",
       "username": "gillygilstrap",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/b0c7fe3663da9aad046efa09fd0a50e4?s=80&d=identicon",
       "web_url": "https://gitlab.com/gillygilstrap"
     },
     {
-      "id": 2890770,
-      "name": "slummit",
-      "username": "slummit",
-      "state": "active",
-      "avatar_url": "https://secure.gravatar.com/avatar/83064193c86f050e1c3c8106d9d88f7a?s=80&d=identicon",
-      "web_url": "https://gitlab.com/slummit"
-    },
-    {
       "id": 2890763,
-      "name": "txomastea",
+      "name": "Thomas Thongsan",
       "username": "txomastea",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/84ea42a6cdc48ad7e0a950a54b10ea3f?s=80&d=identicon",
@@ -98,7 +90,7 @@
     },
     {
       "id": 2890780,
-      "name": "TCoXXV",
+      "name": "Travis Carlton",
       "username": "TCoXXV",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/3a9231cc018ee038d24b75cfb225488a?s=80&d=identicon",
@@ -106,7 +98,7 @@
     },
     {
       "id": 2890769,
-      "name": "tstrat",
+      "name": "Travis Stratton",
       "username": "tstrat",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/95b191665ff1de4ffbe6bc8b1acf1e8c?s=80&d=identicon",
@@ -122,7 +114,7 @@
     },
     {
       "id": 2890766,
-      "name": "npulver00",
+      "name": "Natalie Pulver",
       "username": "npulver00",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/9a1f95b4af6542beaa19f1cc9f3c99d0?s=80&d=identicon",
@@ -130,7 +122,7 @@
     },
     {
       "id": 2937261,
-      "name": "yetiwords",
+      "name": "Austin Callaghan",
       "username": "yetiwords",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/c7015978719bb62b2a5507cff829772b?s=80&d=identicon",
@@ -154,7 +146,7 @@
     },
     {
       "id": 2937360,
-      "name": "KaylinAnn",
+      "name": "Kaylin Anderson",
       "username": "KaylinAnn",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/d96ffe332301c9db077b998a27a8f664?s=80&d=identicon",
@@ -170,7 +162,7 @@
     },
     {
       "id": 2954357,
-      "name": "arisztid21",
+      "name": "Arisztid Munoz",
       "username": "arisztid21",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/da6d99659df49ea816869e9133d7f001?s=80&d=identicon",
@@ -178,7 +170,7 @@
     },
     {
       "id": 2954361,
-      "name": "Jordan",
+      "name": "Jordan Utz",
       "username": "jordanutz",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/29476eb2f927bc211eb0814237dd75eb?s=80&d=identicon",
@@ -186,7 +178,7 @@
     },
     {
       "id": 2954358,
-      "name": "DanielGomez1022",
+      "name": "Daniel Gomez",
       "username": "DanielGomez1022",
       "state": "active",
       "avatar_url": "https://secure.gravatar.com/avatar/626cd240d27606b8c6d514ae12fdbd46?s=80&d=identicon",

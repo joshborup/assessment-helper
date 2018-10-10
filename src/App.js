@@ -7,6 +7,7 @@ import Assessment from './components/Assessment';
 import AddStudentSearch from './components/AddStudentSearch';
 
 import './styles/App.css'
+import lodash from 'lodash';
 
 class App extends Component {
   constructor(){
@@ -109,13 +110,13 @@ class App extends Component {
           <div className="holderHolder">
             <h3 className="topTitle">Assessments</h3>
             <ul style={{"marginTop": "10px"}}>
-              {this.state.assessments.length > 0 ? [...this.state.assessments].sort((a, b) => a.name - b.name).reverse().map(e => (<Assessment assessment={e} key={e.id} select={this.selectAssessment} />)) : <div className="loader"></div>}
+              {this.state.assessments.length > 0 ? lodash.sortBy(this.state.assessments, x => x.name).map(e => (<Assessment assessment={e} key={e.id} select={this.selectAssessment} />)) : <div className="loader"></div>}
             </ul>
           </div>
           <div className="holderHolder">
             <h3 className="topTitle">Students</h3> 
             <ul style={{"marginTop": "10px"}}>
-              {this.state.students.length > 0 ? this.state.students.map(e => (<Student student={e} key={e.id} select={this.selectStudent} deleteStudent={this.deleteStudent}/>)) : (this.state.assessments.length > 1 ? <p className="noStudents">There are no students</p> : <div className="loader"></div>)}
+              {this.state.students.length > 0 ? lodash.sortBy(this.state.students, x => x.name).map(e => (<Student student={e} key={e.id} select={this.selectStudent} deleteStudent={this.deleteStudent}/>)) : (this.state.assessments.length > 1 ? <p className="noStudents">There are no students</p> : <div className="loader"></div>)}
             </ul>
             {!this.state.showAddStudent ? <div onClick={() => this.toggleModal(true)} className="coolButton"><p>+</p></div> : null}
             {this.state.showAddStudent ? <AddStudentSearch submit={this.addStudentToDB} /> : null}
